@@ -1,0 +1,14 @@
+\t (00:00:08) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Sun Feb 06 17:40:13 2022
+\t (00:00:08)         Host=MSI User=ASHISH Pid=8012 CPUs=12
+\t (00:00:08) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 1235
+\i (00:00:10) trapsize 1288
+\i (00:00:10) trapsize 1936
+\i (00:00:10) generaledit 
+\i (00:00:18) trapsize 1763
+\i (00:01:41) exit 
+\t (00:01:41)     Journal end - Sun Feb 06 17:41:46 2022
